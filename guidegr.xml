@@ -186,26 +186,6 @@
 <programme start="20231222150000 +0000" stop="20231222173000 +0000" channel="a-epsilon"><title lang="el">Καμπάνες</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
 <programme start="20231222173000 +0000" stop="20231222190000 +0000" channel="a-epsilon"><title lang="el">Αποκαλυπτικό Δελτίο</title><category lang="el">Ειδήσεις</category></programme>
 <programme start="20231222190000 +0000" stop="20231223000000 +0000" channel="a-epsilon"><title lang="el">Η Αγορά Σήμερα</title><category lang="el">Τηλεαγορές</category></programme>
-<programme start="20231220220000 +0000" stop="20231220230000 +0000" channel="action-24"><title lang="el">Καλύτερα Αργά</title><category lang="el">Ψυχαγωγική Εκπομπή</category></programme>
-<programme start="20231220230000 +0000" stop="20231221000000 +0000" channel="action-24"><title lang="el">ESPN</title><category lang="el">Κοινωνικό - Πολιτικό</category></programme>
-<programme start="20231221000000 +0000" stop="20231221001500 +0000" channel="action-24"><title lang="el">Τα Βλέπω</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231221001500 +0000" stop="20231221030000 +0000" channel="action-24"><title lang="el">Action Τώρα</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231221030000 +0000" stop="20231221040000 +0000" channel="action-24"><title lang="el">EQ (Ε)</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231221040000 +0000" stop="20231221080000 +0000" channel="action-24"><title lang="el">Πρωινή Ζώνη</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231221080000 +0000" stop="20231221110000 +0000" channel="action-24"><title lang="el">Action Τώρα</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231221110000 +0000" stop="20231221114000 +0000" channel="action-24"><title lang="el">Μεσημεριανό Δελτίο Ειδήσεων</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231221114000 +0000" stop="20231221120000 +0000" channel="action-24"><title lang="el">Action Business</title><category lang="el">Ψυχαγωγική Εκπομπή</category></programme>
-<programme start="20231221120000 +0000" stop="20231221140000 +0000" channel="action-24"><title lang="el">Μπάσκετ: Μίλων - ΑΟ Μυκόνου</title><category lang="el">Μπάσκετ</category></programme>
-<programme start="20231221140000 +0000" stop="20231221150000 +0000" channel="action-24"><title lang="el">Θα Φας Καλά</title><category lang="el">Ψυχαγωγική Εκπομπή</category></programme>
-<programme start="20231221150000 +0000" stop="20231221160000 +0000" channel="action-24"><title lang="el">Εεε Ρε Κόσμε</title><category lang="el">Ψυχαγωγική Εκπομπή</category></programme>
-<programme start="20231221160000 +0000" stop="20231221164500 +0000" channel="action-24"><title lang="el">Πάμε Γήπεδο</title><category lang="el">Εκπομπή</category></programme>
-<programme start="20231221164500 +0000" stop="20231221170000 +0000" channel="action-24"><title lang="el">Τα Βλέπω</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231221170000 +0000" stop="20231221175000 +0000" channel="action-24"><title lang="el">Βραδινό Δελτίο Ειδήσεων</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231221175000 +0000" stop="20231221180000 +0000" channel="action-24"><title lang="el">Δελτίο Καιρού</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231221180000 +0000" stop="20231221190000 +0000" channel="action-24"><title lang="el">Η Επόμενη Μέρα</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231221190000 +0000" stop="20231221200000 +0000" channel="action-24"><title lang="el">Εεε Ρε Κόσμε</title><category lang="el">Ψυχαγωγική Εκπομπή</category></programme>
-<programme start="20231221200000 +0000" stop="20231221214500 +0000" channel="action-24"><title lang="el">Πίσω Από Τις Γραμμές</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231221214500 +0000" stop="20231221230000 +0000" channel="action-24"><title lang="el">Monday FC</title><category lang="el">Εκπομπή</category></programme>
 <programme start="20231221230000 +0000" stop="20231222000000 +0000" channel="action-24"><title lang="el">ESPN</title><category lang="el">Κοινωνικό - Πολιτικό</category></programme>
 <programme start="20231222000000 +0000" stop="20231222001500 +0000" channel="action-24"><title lang="el">Τα Βλέπω</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
 <programme start="20231222001500 +0000" stop="20231222030000 +0000" channel="action-24"><title lang="el">Action Τώρα</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
@@ -531,60 +511,6 @@
 <programme start="20231221203000 +0000" stop="20231221210000 +0000" channel="bbc-news"><title lang="el">Γενικό Πλαίσιο με τον Κρίστιαν Φρέιζερ</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
 <programme start="20231221210000 +0000" stop="20231221213000 +0000" channel="bbc-news"><title lang="el">Γενικό Πλαίσιο με τον Κρίστιαν Φρέιζερ</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
 <programme start="20231221213000 +0000" stop="20231221220000 +0000" channel="bbc-news"><title lang="el">Γενικό Πλαίσιο με τον Κρίστιαν Φρέιζερ</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231221220000 +0000" stop="20231221223000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC World από την Αμερική</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231221223000 +0000" stop="20231221230000 +0000" channel="bbc-news"><title lang="el">Έξω από τα Δόντια</title><category lang="el">Συνέντευξη</category></programme>
-<programme start="20231221230000 +0000" stop="20231221233000 +0000" channel="bbc-news"><title lang="el">Ημέρα Ειδήσεων</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231221233000 +0000" stop="20231221234500 +0000" channel="bbc-news"><title lang="el">Τα Επιχειρηματικά Νέα της Ασίας</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231221234500 +0000" stop="20231222000000 +0000" channel="bbc-news"><title lang="el">Αθλητικά Νέα</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222000000 +0000" stop="20231222003000 +0000" channel="bbc-news"><title lang="el">Ημέρα Ειδήσεων</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222003000 +0000" stop="20231222004500 +0000" channel="bbc-news"><title lang="el">Τα Επιχειρηματικά Νέα της Ασίας</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222004500 +0000" stop="20231222010000 +0000" channel="bbc-news"><title lang="el">Αθλητικά Νέα</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222010000 +0000" stop="20231222013000 +0000" channel="bbc-news"><title lang="el">Ημέρα Ειδήσεων</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222013000 +0000" stop="20231222014500 +0000" channel="bbc-news"><title lang="el">Τα Επιχειρηματικά Νέα της Ασίας</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222014500 +0000" stop="20231222020000 +0000" channel="bbc-news"><title lang="el">Αθλητικά Νέα</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222020000 +0000" stop="20231222023000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222023000 +0000" stop="20231222024500 +0000" channel="bbc-news"><title lang="el">Τα Επιχειρηματικά Νέα της Ασίας</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222024500 +0000" stop="20231222030000 +0000" channel="bbc-news"><title lang="el">Αθλητικά Νέα</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222030000 +0000" stop="20231222033000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222033000 +0000" stop="20231222040000 +0000" channel="bbc-news"><title lang="el">Επιδραστικές Προσωπικότητες με την Κέιτι Κέι</title><category lang="el">Συνέντευξη</category></programme>
-<programme start="20231222040000 +0000" stop="20231222043000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222043000 +0000" stop="20231222050000 +0000" channel="bbc-news"><title lang="el">Έξω από τα Δόντια</title><category lang="el">Συνέντευξη</category></programme>
-<programme start="20231222050000 +0000" stop="20231222053000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222053000 +0000" stop="20231222060000 +0000" channel="bbc-news"><title lang="el">Νέα από τον Κόσμο των Επιχειρήσεων</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222060000 +0000" stop="20231222063000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222063000 +0000" stop="20231222070000 +0000" channel="bbc-news"><title lang="el">Νέα από τον Κόσμο των Επιχειρήσεων</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222070000 +0000" stop="20231222073000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222073000 +0000" stop="20231222080000 +0000" channel="bbc-news"><title lang="el">Νέα από τον Κόσμο των Επιχειρήσεων</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222080000 +0000" stop="20231222083000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222083000 +0000" stop="20231222090000 +0000" channel="bbc-news"><title lang="el">Ταξιδεύοντας</title><category lang="el">Τουριστικά - Ταξίδια</category></programme>
-<programme start="20231222090000 +0000" stop="20231222093000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222093000 +0000" stop="20231222100000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222100000 +0000" stop="20231222103000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222103000 +0000" stop="20231222110000 +0000" channel="bbc-news"><title lang="el">Έξω από τα Δόντια</title><category lang="el">Συνέντευξη</category></programme>
-<programme start="20231222110000 +0000" stop="20231222113000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222113000 +0000" stop="20231222114500 +0000" channel="bbc-news"><title lang="el">Νέα από τον Κόσμο των Επιχειρήσεων</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222114500 +0000" stop="20231222120000 +0000" channel="bbc-news"><title lang="el">Τα Νέα του BBC</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222120000 +0000" stop="20231222123000 +0000" channel="bbc-news"><title lang="el">BBC News Τώρα</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222123000 +0000" stop="20231222130000 +0000" channel="bbc-news"><title lang="el">BBC News Τώρα</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222130000 +0000" stop="20231222133000 +0000" channel="bbc-news"><title lang="el">BBC News Τώρα</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222133000 +0000" stop="20231222140000 +0000" channel="bbc-news"><title lang="el">BBC News Τώρα</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222140000 +0000" stop="20231222143000 +0000" channel="bbc-news"><title lang="el">BBC News Τώρα</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222143000 +0000" stop="20231222144500 +0000" channel="bbc-news"><title lang="el">Νέα από τον Κόσμο των Επιχειρήσεων</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222144500 +0000" stop="20231222150000 +0000" channel="bbc-news"><title lang="el">BBC News Τώρα</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222150000 +0000" stop="20231222153000 +0000" channel="bbc-news"><title lang="el">Verified Live</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222153000 +0000" stop="20231222160000 +0000" channel="bbc-news"><title lang="el">Verified Live</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222160000 +0000" stop="20231222163000 +0000" channel="bbc-news"><title lang="el">Verified Live</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222163000 +0000" stop="20231222170000 +0000" channel="bbc-news"><title lang="el">Verified Live</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222170000 +0000" stop="20231222173000 +0000" channel="bbc-news"><title lang="el">Verified Live</title><category lang="el">Ειδήσεις</category></programme>
-<programme start="20231222173000 +0000" stop="20231222180000 +0000" channel="bbc-news"><title lang="el">Το BBC στην Αφρική</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222180000 +0000" stop="20231222183000 +0000" channel="bbc-news"><title lang="el">Κάθε Μέρα στον Κόσμο</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222183000 +0000" stop="20231222190000 +0000" channel="bbc-news"><title lang="el">Κάθε Μέρα στον Κόσμο</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222190000 +0000" stop="20231222193000 +0000" channel="bbc-news"><title lang="el">Κάθε Μέρα στον Κόσμο</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222193000 +0000" stop="20231222200000 +0000" channel="bbc-news"><title lang="el">Κάθε Μέρα στον Κόσμο</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222200000 +0000" stop="20231222203000 +0000" channel="bbc-news"><title lang="el">Γενικό Πλαίσιο με τον Κρίστιαν Φρέιζερ</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222203000 +0000" stop="20231222210000 +0000" channel="bbc-news"><title lang="el">Γενικό Πλαίσιο με τον Κρίστιαν Φρέιζερ</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222210000 +0000" stop="20231222213000 +0000" channel="bbc-news"><title lang="el">Γενικό Πλαίσιο με τον Κρίστιαν Φρέιζερ</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
-<programme start="20231222213000 +0000" stop="20231222220000 +0000" channel="bbc-news"><title lang="el">Γενικό Πλαίσιο με τον Κρίστιαν Φρέιζερ</title><category lang="el">Εκπομπή - Μαγκαζίνο</category></programme>
 <programme start="20231220223500 +0000" stop="20231220231500 +0000" channel="BBCEarth.gr"><title lang="el">Οι Ωραιότερες Διαδρομές με Τρένο Κ1 Ε5</title><category lang="el">Τουριστικά - Ταξίδια</category></programme>
 <programme start="20231220231500 +0000" stop="20231221000000 +0000" channel="BBCEarth.gr"><title lang="el">Ζωή Υπό το Μηδέν: Καναδάς Κ2 Ε1</title><category lang="el">Φύση - Ανθρωπολογία</category></programme>
 <programme start="20231221000000 +0000" stop="20231221004500 +0000" channel="BBCEarth.gr"><title lang="el">Εκεί που Ζουν οι Άγριοι με τον Μπεν Φογκλ Κ10 Ε1</title><category lang="el">Τουριστικά - Ταξίδια</category></programme>
@@ -1245,6 +1171,20 @@
 <programme start="20231221160000 +0000" stop="20231221180000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
 <programme start="20231221180000 +0000" stop="20231221200000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
 <programme start="20231221200000 +0000" stop="20231221220000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231221220000 +0000" stop="20231222000000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222000000 +0000" stop="20231222020000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222020000 +0000" stop="20231222040000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222040000 +0000" stop="20231222060000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222060000 +0000" stop="20231222080000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222080000 +0000" stop="20231222100000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222100000 +0000" stop="20231222120000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222120000 +0000" stop="20231222140000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222140000 +0000" stop="20231222160000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222160000 +0000" stop="20231222180000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222180000 +0000" stop="20231222190000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222190000 +0000" stop="20231222194500 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
+<programme start="20231222194500 +0000" stop="20231222214500 +0000" channel="cosmote-sport-4k"><title lang="el">Ποδόσφαιρο: Σαλερνιτάνα - Μίλαν (Ζ)</title><category lang="el">Ποδόσφαιρο</category></programme>
+<programme start="20231222214500 +0000" stop="20231222220000 +0000" channel="cosmote-sport-4k"><title lang="el">COSMOTESport4K</title><category lang="el">Promo Card</category></programme>
 <programme start="20231220221500 +0000" stop="20231220231500 +0000" channel="cosmote-sport-5hd"><title lang="el">DTM 2023 - Στιγμιότυπα</title><category lang="el">Μηχανοκίνητα</category></programme>
 <programme start="20231220231500 +0000" stop="20231220234500 +0000" channel="cosmote-sport-5hd"><title lang="el">Sports Classics: Gearing Up 2023 Ε11</title><category lang="el">Διάφορα Σπορ</category></programme>
 <programme start="20231220234500 +0000" stop="20231221001500 +0000" channel="cosmote-sport-5hd"><title lang="el">Sports Classics: 2023 Outdoor Specials</title><category lang="el">Διάφορα Σπορ</category></programme>
